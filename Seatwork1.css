@@ -1,0 +1,36 @@
+  h1 {
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 5px lavander;
+	font-family:biorhyme;
+	font-size: 45px;
+	letter-spacing: 20px;
+	color:mediumvioletred;
+}
+table {
+	text-align: center;
+	background-color:#FBA6A6 ;
+	opacity: 80%;
+	font-family:biorhyme;
+	border-style:inset;
+	border-color:#00336D;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+th {
+	font-size: 24px;
+	background-color: ;
+	color:;
+}
+body {
+	background-size: 100%;
+}
+img {
+	opacity: 2;
+}
+.class1 {
+	text-decoration: underline;
+	text-decoration-color:#FFA200 ;
+}
